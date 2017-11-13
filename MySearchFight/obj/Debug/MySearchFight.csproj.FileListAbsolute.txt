@@ -1,0 +1,7 @@
+C:\Users\laptoptic\Documents\Visual Studio 2015\Projects\MySearchFight\MySearchFight\bin\Debug\MySerchFight.exe.config
+C:\Users\laptoptic\Documents\Visual Studio 2015\Projects\MySearchFight\MySearchFight\bin\Debug\MySerchFight.exe
+C:\Users\laptoptic\Documents\Visual Studio 2015\Projects\MySearchFight\MySearchFight\bin\Debug\MySerchFight.pdb
+C:\Users\laptoptic\Documents\Visual Studio 2015\Projects\MySearchFight\MySearchFight\obj\Debug\MySerchFight.exe
+C:\Users\laptoptic\Documents\Visual Studio 2015\Projects\MySearchFight\MySearchFight\obj\Debug\MySerchFight.pdb
+C:\Users\laptoptic\Documents\Visual Studio 2015\Projects\MySearchFight\MySearchFight\bin\Debug\Configuration.xml
+C:\Users\laptoptic\Documents\Visual Studio 2015\Projects\MySearchFight\MySearchFight\obj\Debug\MySearchFight.csprojResolveAssemblyReference.cache

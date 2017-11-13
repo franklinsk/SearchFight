@@ -1,0 +1,6 @@
+C:\Users\laptoptic\Documents\Visual Studio 2015\Projects\MySearchFight\MySearchFight\bin\Release\MySerchFight.exe.config
+C:\Users\laptoptic\Documents\Visual Studio 2015\Projects\MySearchFight\MySearchFight\bin\Release\Configuration.xml
+C:\Users\laptoptic\Documents\Visual Studio 2015\Projects\MySearchFight\MySearchFight\bin\Release\MySerchFight.exe
+C:\Users\laptoptic\Documents\Visual Studio 2015\Projects\MySearchFight\MySearchFight\bin\Release\MySerchFight.pdb
+C:\Users\laptoptic\Documents\Visual Studio 2015\Projects\MySearchFight\MySearchFight\obj\Release\MySerchFight.exe
+C:\Users\laptoptic\Documents\Visual Studio 2015\Projects\MySearchFight\MySearchFight\obj\Release\MySerchFight.pdb
